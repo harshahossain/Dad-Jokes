@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dad-Jokes/static/css/main.1775ff05.css",
+    "main.js": "/Dad-Jokes/static/js/main.abc21314.js",
+    "static/js/787.b0a5a3f9.chunk.js": "/Dad-Jokes/static/js/787.b0a5a3f9.chunk.js",
+    "index.html": "/Dad-Jokes/index.html",
+    "main.1775ff05.css.map": "/Dad-Jokes/static/css/main.1775ff05.css.map",
+    "main.abc21314.js.map": "/Dad-Jokes/static/js/main.abc21314.js.map",
+    "787.b0a5a3f9.chunk.js.map": "/Dad-Jokes/static/js/787.b0a5a3f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1775ff05.css",
+    "static/js/main.abc21314.js"
+  ]
+}
