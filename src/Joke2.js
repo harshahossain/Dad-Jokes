@@ -15,7 +15,6 @@ triggerHover(){
   this.setState({
     isTrue:!this.state.isTrue
   })
-  console.log('hovering')
 }
 getColor(){
     if (this.props.votes >= 15) {
